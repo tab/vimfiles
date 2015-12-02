@@ -36,6 +36,7 @@ echo 'source ~/.vim/vimrc' >> ~/.vimrc
 - [syntastic](https://github.com/scrooloose/syntastic)
 - [vim-airline](https://github.com/bling/vim-airline)
 - [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
+- [vim-css-color](https://github.com/ap/vim-css-color)
 - [vim-indexed-search](https://github.com/henrik/vim-indexed-search)
 - [vim-rails-apidock](https://github.com/xuwupeng2000/vim-rails-apidock)
 - [vim-rails](https://github.com/tpope/vim-rails)

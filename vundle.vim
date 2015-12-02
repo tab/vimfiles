@@ -11,6 +11,7 @@ source ~/.vim/vundles/supertab.vim
 source ~/.vim/vundles/syntastic.vim
 source ~/.vim/vundles/vim-airline.vim
 source ~/.vim/vundles/vim-coffee-script.vim
+source ~/.vim/vundles/vim-css-color.vim
 source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-rails-apidock.vim
 source ~/.vim/vundles/vim-rails.vim
